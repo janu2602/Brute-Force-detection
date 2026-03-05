@@ -115,5 +115,8 @@ index=main sourcetype="WinEventLog:Security" (EventCode=4625 OR EventCode=4624)
 [incident_report_brute_force.md](https://github.com/user-attachments/files/25754559/incident_report_brute_force.md)
 [mitre_mapping,md](https://github.com/user-attachments/files/25754563/mitre_mapping.md)
 [queries.md](https://github.com/user-attachments/files/25754567/queries.md)
+[# Brute Force Simulation - Windows.txt](https://github.com/user-attachments/files/25754693/Brute.Force.Simulation.-.Windows.txt)
+<img width="1274" height="790" alt="Dashboard" src="https://github.com/user-attachments/assets/ad31147b-3217-473c-ab08-cf765d4f4c25" />
+<img width="1284" height="824" alt="Dashboard 1" src="https://github.com/user-attachments/assets/19cb6424-60ca-4b40-9373-a8fb8e713195" />
 
 
