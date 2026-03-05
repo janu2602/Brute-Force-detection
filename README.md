@@ -109,3 +109,11 @@ index=main sourcetype="WinEventLog:Security" (EventCode=4625 OR EventCode=4624)
 - Alert threshold tuning to reduce false positives
 - Incident documentation and reporting
 - MITRE ATT&CK framework mapping
+
+[brute_force_tuning_notes.md](https://github.com/user-attachments/files/25754554/brute_force_tuning_notes.md)
+[brute_force_sim.sh](https://github.com/user-attachments/files/25754553/brute_force_sim.sh)
+[incident_report_brute_force.md](https://github.com/user-attachments/files/25754559/incident_report_brute_force.md)
+[mitre_mapping,md](https://github.com/user-attachments/files/25754563/mitre_mapping.md)
+[queries.md](https://github.com/user-attachments/files/25754567/queries.md)
+
+
